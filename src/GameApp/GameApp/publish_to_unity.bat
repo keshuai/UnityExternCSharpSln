@@ -1,0 +1,1 @@
+dotnet publish -c Release -f netstandard2.1 -r portable -o ../../../Assets/Assemblies/Runtime
